@@ -22,7 +22,7 @@ I'm YunLong.Liu, Software Engineer, Architect, Instructor, Mentor and researcher
 <br/>
 
 <br/>
-<a href="https://github.com/ramazansakin">
-<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=1713612859&show_icons=true&theme=darcula&include_all_commits=true&count_private=true" alt="Ramazan Sakin" />
+<a href="https://github.com/1713612859">
+<img height="170px" src="https://github-readme-stats.vercel.app/api?username=1713612859" /><span>  </span><img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1713612859&layout=compact&langs_count=8" />
 
 </a>
