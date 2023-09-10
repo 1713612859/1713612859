@@ -1,20 +1,28 @@
 ### Hi there 👋
 
-#### My name is LiuYunlong ,I'm come from china !
-🌱 I’m currently learning ...
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+
+<br/>
+
+I'm YunLong.Liu, Software Engineer, Architect, Instructor, Mentor and researcher of the future.
+<br/>
 
 
-<!--
-**1713612859/1713612859** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- I’m looking for organizations to collaborate open-source projects as a volunteer!
+- 🔭 I’m currently trying to get a certificate on AWS!
+- 🚀 I'm improving myself on Java/Spring!
 
-Here are some ideas to get you started:
+<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![](https://img.shields.io/badge/OS-Linux&&Windows-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-Intellij&&VSCode-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Java&&Python-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Interest-Cloud-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+
+<br/>
+
+<br/>
+<a href="https://github.com/ramazansakin">
+<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=1713612859&show_icons=true&theme=darcula&include_all_commits=true&count_private=true" alt="Ramazan Sakin" />
+
+</a>
